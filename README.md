@@ -88,4 +88,4 @@ end
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/case-statements-quiz' title='Case Statements Quiz'>Case Statements Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Case Statements Quiz</p>
